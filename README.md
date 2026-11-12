@@ -11,6 +11,14 @@ It takes about **10 minutes**, in **Urdu**, on a basic Android phone, and needs 
 
 > HURF only flags risk. It **never diagnoses**. Children marked high risk should be referred to a specialist.
 
+## Demo
+
+https://github.com/user-attachments/assets/e29660ec-de5b-4e27-b37f-452b28e9a688
+
+
+https://github.com/user-attachments/assets/28316dcb-bdce-4827-a742-dc0c4049eff8
+
+
 ## ⬇️ Download
 
 **[Download HURF-v1.1.0.apk](../../releases/latest)** from the Releases page (5.5 MB),
